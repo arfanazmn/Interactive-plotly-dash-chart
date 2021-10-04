@@ -1,5 +1,5 @@
 # Interactive-plotly-dash-chart
-Interactive plotly dash chart by using pandas, plotly dash, jupyter dash and mongoDB
+Interactive plotly dash chart by using pandas, plotly dash and mongoDB
 
 Steps to do in Command Promt
 1. Go to directory files. Run cd c:\Labtest2
