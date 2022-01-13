@@ -11,3 +11,5 @@ Steps to do in Command Promt
 7. Run pip install pymongo
 8. Run pip install dnspython
 9. Run pip install plotly
+
+![Untitled](https://user-images.githubusercontent.com/81603864/149278828-0113f52f-eb2c-4c23-8205-79fb3923c737.png)
